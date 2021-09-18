@@ -9,7 +9,11 @@ input{
     width: 100%;
     padding-left: 10px;
     padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
     box-sizing: border-box;
+
 }
 
 h2{
@@ -19,6 +23,8 @@ h2{
 button{
     background-color: blue;
     text-decoration-color: crimson;
-    
+    padding: 10px 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
     
 }
